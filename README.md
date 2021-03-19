@@ -4,7 +4,7 @@
 
 Author: Davion Garcia
 
-- [Pull Req 1]()
+- [Pull Req 1](https://github.com/Vektur/auth-api/pull/1)
 - Postman App
 
 ## Setup
