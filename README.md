@@ -5,6 +5,7 @@
 Author: Davion Garcia
 
 - [Pull Req 1](https://github.com/Vektur/auth-api/pull/1)
+- [Heroku](https://dg-auth-api.herokuapp.com/)
 - Postman App
 
 ## Setup
